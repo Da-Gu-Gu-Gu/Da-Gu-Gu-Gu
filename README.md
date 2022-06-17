@@ -5,7 +5,10 @@
 <div align="center">
  <h2> I'm Hein Htet Aung , Creative Developer :hushed: </h2>
  </div>
-
+--- :superhero_man: About Me
+- 🔭 I’m currently working on self 
+- 🌱 I’m currently learning TypeScript , Next Js, React Native
+- ⚡ Fun fact: Gu Gu Gr Gr
 <!--
 **Da-Gu-Gu-Gu/Da-Gu-Gu-Gu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
