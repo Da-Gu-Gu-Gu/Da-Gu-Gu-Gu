@@ -1,5 +1,5 @@
 # 💫About Me :
-I'm currently working on self imporvement
+:sunflower: I'm currently working on self imporvement
 
 
 ## 🌐Socials
