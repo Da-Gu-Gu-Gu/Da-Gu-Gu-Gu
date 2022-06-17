@@ -1,5 +1,5 @@
-<div id="header" align="center" style="background:url('https://media.giphy.com/media/kIQSulcQPg5GTEbr7T/giphy.gif')">
-  <img src="https://media.giphy.com/media/hOO2m87AWvU7XRmOp2/giphy.gif" width="20px" />
+<div id="header" align="center" >
+  <img src="https://media.giphy.com/media/BXVRf5GyMlElO/giphy.gif" width="20px" />
  </div>
 
 # 💫About Me :
