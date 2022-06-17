@@ -1,4 +1,6 @@
-<div style="width:100%;height:0;padding-bottom:68%;position:relative;"><iframe src="https://giphy.com/embed/3bc9YL28QWi3pYzi1p" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/reaction-childrens-miracle-network-hospitals-cmn-3bc9YL28QWi3pYzi1p">via GIPHY</a></p>
+<div id="header" align="center">
+ <img src="https://giphy.com/embed/3bc9YL28QWi3pYzi1p" width="480" height="325" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+</div>
 
 <!--
 **Da-Gu-Gu-Gu/Da-Gu-Gu-Gu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
