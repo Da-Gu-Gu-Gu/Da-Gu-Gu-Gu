@@ -1,9 +1,9 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/hOO2m87AWvU7XRmOp2/giphy.gif" width="100%" />
+<div id="header" align="center" style="background:url('https://media.giphy.com/media/kIQSulcQPg5GTEbr7T/giphy.gif')">
+  <img src="https://media.giphy.com/media/hOO2m87AWvU7XRmOp2/giphy.gif" width="20px" />
  </div>
 
 # 💫About Me :
-:telescope: I'm currently working on self imporvement
+:telescope: I'm currently working on self imporvement 
 
 :seedling:  I'm currently learning Nextjs, TypeScript And Japanese 
 
