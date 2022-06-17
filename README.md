@@ -1,5 +1,9 @@
 # 💫About Me :
-:sunflower: I'm currently working on self imporvement
+:telescope: I'm currently working on self imporvement
+:seedling:  I'm currently learning Nextjs,TypeScript And Japanese 
+:joy:       The boy looks like Nam Joo-hyuk
+
+
 
 
 ## 🌐Socials
