@@ -1,6 +1,8 @@
 # 💫About Me :
 :telescope: I'm currently working on self imporvement
-:seedling:  I'm currently learning Nextjs,TypeScript And Japanese 
+
+:seedling:  I'm currently learning Nextjs, TypeScript And Japanese 
+
 :joy:       The boy looks like Nam Joo-hyuk
 
 
