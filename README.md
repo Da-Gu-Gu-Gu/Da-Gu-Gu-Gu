@@ -10,7 +10,7 @@
 
 :seedling:  I'm currently learning Nextjs, TypeScript And Japanese 
 
-:joy:       The boy looks like Nam Joo-hyuk
+:joy:       Gu Gu Gr Gr
 
 
 
